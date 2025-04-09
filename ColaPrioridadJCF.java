@@ -1,5 +1,6 @@
 import java.util.PriorityQueue;
-public class ColaPrioridadJCF<T extends Comparable<T>>{
+//Cola de prioridad del JCF
+public class ColaPrioridadJCF<T extends Comparable<T>> implements ColaDePrioridad{
     private PriorityQueue<Paciente> cola;
     public ColaPrioridadJCF(){
         cola = new PriorityQueue<>();

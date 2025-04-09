@@ -3,14 +3,17 @@ public class Paciente implements Comparable<Paciente>{
     //Atributos
     private String nombre;
     private String condicionMedica;
-    private char prioridad;
+    private String prioridad;
 
     //Constructor
-    public Paciente(String nombre, String condicionMedica, char prioridad){
+    public Paciente(String nombre, String condicionMedica, String prioridad){
         this.nombre = nombre;
         this.condicionMedica = condicionMedica;
         this.prioridad = prioridad;
 
+    }
+    public Paciente(String nombre2, String condicionMedica2, char c) {
+        //TODO Auto-generated constructor stub
     }
     //Métodos
     @Override
@@ -27,7 +30,7 @@ public class Paciente implements Comparable<Paciente>{
         return condicionMedica;
     }
     //prioridad
-    public char getPriodidad(){
+    public String getPrioridad(){
         return prioridad;
     }
     

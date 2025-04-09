@@ -1,0 +1,101 @@
+Nombre,CondicionMedica,Prioridad
+Luisa,Fractura,A
+Felipe,Dolor abdominal,C
+Roberto,Fiebre alta,A
+Gabriela,Covid-19,C
+María,Covid-19,A
+Sofía,Fiebre alta,A
+Claudia,Fractura,A
+Jorge,Alergia severa,B
+Luis,Dolor de cabeza,C
+María,Covid-19,C
+Roberto,Intoxicación,C
+Luisa,Fiebre alta,A
+Valeria,Fiebre alta,B
+Manuel,Corte profundo,C
+Manuel,Intoxicación,B
+Felipe,Corte profundo,A
+Sofía,Dolor abdominal,B
+Claudia,Corte profundo,A
+Paula,Gripe,B
+Valeria,Gripe,C
+Carlos,Dolor abdominal,C
+Sofía,Covid-19,C
+Ana,Fiebre alta,B
+Luisa,Covid-19,A
+Luis,Covid-19,A
+Sofía,Dolor de cabeza,A
+Diego,Gripe,B
+Felipe,Dolor abdominal,B
+Claudia,Dolor de cabeza,A
+Luis,Gripe,C
+Luisa,Alergia severa,B
+Carlos,Fiebre alta,B
+Manuel,Dolor de cabeza,C
+Ana,Fractura,C
+Juan,Covid-19,A
+Juan,Quemadura,C
+Pedro,Dolor abdominal,A
+Diego,Covid-19,A
+Manuel,Gripe,B
+Valeria,Fractura,B
+María,Covid-19,A
+Ricardo,Gripe,B
+Gabriela,Intoxicación,A
+Pedro,Fiebre alta,C
+Felipe,Gripe,C
+Paula,Dolor de cabeza,B
+Luisa,Fractura,B
+Pedro,Dolor de cabeza,A
+Luisa,Alergia severa,C
+Claudia,Intoxicación,A
+Jorge,Quemadura,A
+Luisa,Corte profundo,B
+Valeria,Fractura,B
+Ana,Dolor de cabeza,B
+Manuel,Dolor abdominal,A
+Claudia,Fiebre alta,C
+Jorge,Gripe,C
+Roberto,Corte profundo,C
+Ricardo,Alergia severa,C
+Diego,Dolor de cabeza,B
+Felipe,Fiebre alta,C
+Diego,Alergia severa,B
+Diego,Covid-19,C
+Valeria,Fractura,B
+Gabriela,Quemadura,B
+Sofía,Dolor abdominal,C
+Paula,Gripe,A
+María,Dolor de cabeza,C
+Jorge,Dolor de cabeza,A
+María,Dolor de cabeza,C
+Paula,Fractura,B
+Gabriela,Fiebre alta,C
+Luisa,Intoxicación,B
+Paula,Covid-19,A
+Carlos,Corte profundo,A
+Elena,Dolor abdominal,B
+Pedro,Covid-19,B
+Diego,Quemadura,B
+Ana,Fiebre alta,C
+Juan,Corte profundo,A
+Luisa,Fractura,C
+María,Alergia severa,A
+Manuel,Quemadura,B
+María,Intoxicación,C
+Carlos,Dolor abdominal,A
+Claudia,Intoxicación,A
+Gabriela,Fractura,A
+Juan,Corte profundo,C
+Carlos,Fractura,B
+Juan,Covid-19,C
+María,Fractura,B
+Luisa,Corte profundo,B
+Claudia,Alergia severa,C
+Luisa,Alergia severa,C
+Roberto,Intoxicación,B
+Ana,Intoxicación,B
+Felipe,Intoxicación,B
+Gabriela,Covid-19,C
+Valeria,Alergia severa,B
+Felipe,Dolor abdominal,C

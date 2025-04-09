@@ -3,15 +3,15 @@ import java.util.PriorityQueue;
 import java.util.Vector;
 
 public class Factory {
-    public static String createPriorityQueue(int opcion){
+    public static ColaDePrioridad createPriorityQueue(int opcion){
 
         switch (opcion) {
             case 1: //Cola de prioridad de JCF
-                return new ColaPrioridadJCF();
+                return (ColaDePrioridad) new ColaPrioridadJCF();
             case 2: //Cola de prioridad usando VectorHeap
-                return new ColaPrioridadVectorHeap();
+                return (ColaDePrioridad) new ColaPrioridadVectorHeap();
             default:
-                return "Elige una opcion valida";
+            throw new IllegalArgumentException("Elige una opción válida");
         }
 
     }
